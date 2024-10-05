@@ -1,7 +1,3 @@
-Markdown에서 코드 블록이 제대로 보이도록 하려면, 각 코드 블록을 백틱(```)으로 감싸줘야 합니다. 예시로는 아래와 같은 형식으로 작성해야 코드가 제대로 표시됩니다.
-
-아래는 수정된 예시입니다:
-
 ```markdown
 # Gandalf Adventures - Tongue Tied Gandalf
 
